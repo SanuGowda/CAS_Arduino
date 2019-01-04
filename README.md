@@ -1,5 +1,5 @@
 # CAS_Arduino
-Used to take prevention before accident happen by making use of Ultrasonic sensor in order to measure the distance between the two vehicles.
+Used to take prevention before accident happen by making use of Ultrasonic sensor in order to measure the distance between the two vehicles. 
 
 
 
